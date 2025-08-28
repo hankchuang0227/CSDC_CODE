@@ -1,0 +1,13 @@
+void add(int a , int b){
+    int ans= a+ b;
+    cout << ans;
+}
+
+int main(){
+    int a,b;
+    cin>>a >> b;
+
+    add(a,b);
+
+    return 0;
+}
